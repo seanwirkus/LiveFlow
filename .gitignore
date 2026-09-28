@@ -1,0 +1,14 @@
+# Build output
+build/
+*.dmg
+
+# Personal dictation history (never commit — this is user data)
+transcripts.md
+
+# macOS
+.DS_Store
+
+# Xcode / SwiftPM (in case a project is added later)
+.build/
+DerivedData/
+*.xcuserstate

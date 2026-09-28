@@ -1,0 +1,28 @@
+# LiveFlow vocabulary — one short word or phrase per line
+# Add your own terms below. Changes take effect on the next dictation.
+LiveFlow
+Wispr Flow
+VESC
+VESC Tool
+ESP32
+ESP32-C3
+Bambu Lab
+Bambu Studio
+Shapr3D
+Fusion 360
+FreeCAD
+OpenSCAD
+STEP file
+STL file
+CAD
+LED
+LED ring
+USB-C
+PETG
+LiDAR
+PWM
+UART
+GPIO
+accelerometer
+gyroscope
+Roborock
